@@ -22,7 +22,7 @@ Damit ist zum Beispiel gemeint, dass Sie Ihre Arbeitsstunden anhand eines Betrag
 
 ## In den folgenden PivotTables erhalten Sie einige Informationen über Ihre Brutto Stunden, Ihre Pausen, Ihre Zuschüsse und Ihren Auszahlungen:
 
-![image](https://github.com/Enderzombie/excel-zeiterfassung/assets/80001985/814240bf-7ebd-4b8d-a3e9-933e531cba88)
+![image](https://github.com/Enderzombie/excel-zeiterfassung/assets/80001985/f7482330-bce9-4d68-9083-bc4ed1a06e59)
 
 *(Excel-Sheet: Brutto Stunden)*
 
